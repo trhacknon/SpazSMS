@@ -8,10 +8,10 @@ import requests
 __banner__ = """
    _  _  _  _  _  _  _
   / \/ \/ \/ \/ \/ \/ \  LiteOTP Spammer v1.0
- ( L  i  t  e  O  T  P ) Author: DedSecTL
+ ( L  i  t  e  O  T  P ) Modder: trhacknon
   \ /\_/\ /\_/\ /\_/\ /  Codename: Alone.
-  / \   / \   / \   / \  Github: https://github.com/Gameye98
- ( s ) ( p ) ( a ) ( m ) Team  : BlackHole Security
+  / \   / \   / \   / \  Github: https://github.com/trhacknon
+ ( s ) ( p ) ( a ) ( m ) Team  : trhacknon Security
   \_/   \_/   \_/   \_/  Made with full of \033[1;31m<3\033[0m
 """
 
