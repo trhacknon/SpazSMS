@@ -8,10 +8,10 @@ import requests
 __banner__ = """
  ___    _   _  ___    
 (  _`\ ( ) ( )(  _`\  PHD Spammer v1.0
-| |_) )| |_| || | ) | Author: DedSecTL
+| |_) )| |_| || | ) | Modder: trhacknon
 | ,__/'|  _  || | | | Codename: Alone.
-| |    | | | || | | | Github: https://github.com/Gameye98
-| |    | | | || |_) | Team  : BlackHole Security
+| |    | | | || | | | Github: https://github.com/trhacknon
+| |    | | | || |_) | Team  : trhacknon Security
 (_)    (_) (_)(____/' Made with full of \033[1;31m<3\033[0m
 """
 
